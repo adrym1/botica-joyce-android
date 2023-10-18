@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584937759046",
+    "project_id": "botica-app",
+    "storage_bucket": "botica-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584937759046:android:202e9767d70c53f0f2c547",
+        "android_client_info": {
+          "package_name": "com.cibertec.farmacia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584937759046-ppnp7gp61hlloi3k0mt2h4bco01fha2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopH0NLHHxUpH_2adBbpN00ZDldDBvn_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584937759046-ppnp7gp61hlloi3k0mt2h4bco01fha2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
